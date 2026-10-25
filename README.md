@@ -20,7 +20,7 @@ GET /api/v1/products/{id}
 PUT /api/v1/products/{id}
 DELETE /api/v1/products/{id}
 
-Product Service :
+Product Service
 
 calls the repository methods and validates the product's existence.
 
