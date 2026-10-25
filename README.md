@@ -8,7 +8,8 @@ Database
 
 The products are managed through the CREATE, READ, UPDATE AND DELETE operations
 
-Product Controller
+Product Controller:
+
 Operates the HTTP requests and responses
 
 POST /api/v1/products 
