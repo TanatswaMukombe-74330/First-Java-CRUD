@@ -1,4 +1,4 @@
-This API project is built using Spring boot
+This API project is built using Spring boot system
 
 The application follows a layered architecture:
 Controller
@@ -20,7 +20,8 @@ GET /api/v1/products/{id}
 PUT /api/v1/products/{id}
 DELETE /api/v1/products/{id}
 
-Product Service 
+Product Service :
+
 calls the repository methods and validates the product's existence.
 
 
