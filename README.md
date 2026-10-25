@@ -120,7 +120,20 @@ ERROR HANDLING/EXCEPTION HANDLING
 
 - when the server cannot be accessed, an error code of 500 is given
 
+Project Documentation
 
+This project demonstrates a Java REST API application.
+
+CRUD Operations
+
+* Create records.
+* Read existing records.
+* Update records.
+* Delete records.
+
+Screenshots
+
+Screenshots of the running application, CRUD operations, and startup logs will be stored in the doc folder.
 
 
 
